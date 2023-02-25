@@ -1,5 +1,5 @@
 {
-  "name": "postcss-html",
+  "name": "@postanu/postcss-html",
   "version": "1.5.0",
   "publishConfig": {
     "access": "public"
